@@ -14,6 +14,8 @@ upload_to_github.sh
 .idea/
 *.swp
 *.swo
+chat_logs/
+HER-Dataset
 *~
 
 # OS
